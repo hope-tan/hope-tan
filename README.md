@@ -11,6 +11,7 @@
 
 - <b>Portfolio Website (React.js | TailwindCSS) </b>
   - [hopetan.com](https://www.hopetan.com)
+  - [Website Repository](https://github.com/hope-tan/portfolio-website)
 - <b>Secure Yourself App</b>
   - Coming soon...
 
@@ -24,8 +25,8 @@
 
 <h2>📝Certifications</h2>
 
-- CompTIA Security+ (in progress)
-- Google Cybersecurity Certificate (in progress)
+- <b>CompTIA Security+ </b> (in progress)
+- <b>Google Cybersecurity Certificate</b> (in progress)
 
 <h2>🤳Connect with Me</h2>
 
