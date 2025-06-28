@@ -29,6 +29,8 @@
 
 - <b>CompTIA Security+ </b> (in progress)
 - <b>Google Cybersecurity Certificate</b> (in progress)
+- <b>AWS Fundamentals</b> (in progress)
+- <b>[Google Cloud Fundamentals](https://coursera.org/share/02135aed6aa6cee52b703201bdec2983)</b>
 
 <h2>🤳Connect with Me</h2>
 
