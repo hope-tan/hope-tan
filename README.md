@@ -13,7 +13,6 @@
 
 - <b>Portfolio Website (React.js | TailwindCSS) </b>
   - [hopetan.com](https://www.hopetan.com)
-  - [Website Repository](https://github.com/hope-tan/portfolio-website)
 - <b>Secure Yourself App</b>
   - Coming soon...
 
