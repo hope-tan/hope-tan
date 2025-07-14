@@ -3,15 +3,15 @@
 [<img align="left" alt="Hope Tan | LinkedIn" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <a href="https://www.linkedin.com/in/hopetan/">Let's connect.</a>
 
-<a>I'm a dedicated college junior studying **computer science and cybersecurity** who is looking to grow her skills through **Spring and Summer 2026 internships**! </a> 
+<a>I'm a dedicated and detail-oriented college junior studying **computer science and cybersecurity** who is looking to grow her skills through **Spring and Summer 2026 internships**! </a> 
 
 <a> I've developed **strong leadership, communication, and technical skills** through **captaining cybersecurity competition teams**, **personal projects**, and completing a **Product Security Engineering internship** at Calix in Summer 2025. </a>
 
-<a>I'm especially interested in **cybersecurity engineering** and **product security roles** but open to all cybersecurity, IT, or DevOps opportunities (based in US)!</a>
+<a>I'm especially interested in **cybersecurity engineering** and **product/app security roles** but open to all cybersecurity, IT, or DevOps/DevSecOps opportunities (based in US)!</a>
 
 <h2>👩🏻‍💻Personal Projects</h2>
 
-- <b>Portfolio Website (React.js | TailwindCSS) </b>
+- <b>Portfolio Website (React.js | Vite | TailwindCSS | EmailJS) </b>
   - [hopetan.com](https://www.hopetan.com)
 - <b>Secure Yourself App</b>
   - Coming soon...
@@ -26,10 +26,10 @@
 
 <h2>📝Certifications</h2>
 
-- <b>CompTIA Security+ </b> (in progress)
-- <b>Google Cybersecurity Certificate</b> (in progress)
-- <b>AWS Fundamentals</b> (in progress)
+- <b>[Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/YJBG3S58LE7F)</b>
 - <b>[Google Cloud Fundamentals](https://coursera.org/share/02135aed6aa6cee52b703201bdec2983)</b>
+- <b>CompTIA Security+ </b> (in progress)
+- <b>AWS Fundamentals</b> (in progress)
 
 <h2>🤳Connect with Me</h2>
 
