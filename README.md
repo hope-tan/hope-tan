@@ -1,7 +1,9 @@
 <h1>Hi there, I'm Hope! 🥳 </h1>
 
-[<img align="left" alt="Hope Tan | LinkedIn" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<a href="https://www.linkedin.com/in/hopetan/">Let's connect.</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hopetan)
+[![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:hopedtan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/hope-tan)
+[![GitHub](https://img.shields.io/badge/Portfolio_Site-8A2BE2)](https://hopetan.com)
 
 <a>I'm a dedicated and detail-oriented college junior studying **computer science and cybersecurity** who is looking to grow her skills through **Spring and Summer 2026 internships**! </a> 
 
@@ -30,16 +32,6 @@
 - <b>[Google Cloud Fundamentals](https://coursera.org/share/02135aed6aa6cee52b703201bdec2983)</b>
 - <b>CompTIA Security+ </b> (in progress)
 - <b>AWS Fundamentals</b> (in progress)
-
-<h2>🤳Connect with Me</h2>
-
-
-[linkedin]: https://linkedin.com/in/hopetan
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hopetan)
-[![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:hopedtan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/hope-tan)
-[![GitHub](https://img.shields.io/badge/Portfolio_Site-8A2BE2)](https://hopetan.com)
 
 <!--
 **hope-tan/hope-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
