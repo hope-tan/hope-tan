@@ -25,11 +25,8 @@
 <h2>🏆Cybersecurity Competitions</h2>
 
 - <b>2nd Place and Captain - NCAE CyberGames Competition 2025</b>
-  - [NCAE CyberGames 2025 Documentation](https://github.com/hope-tan/ncae-cybergames-2025)
-  - [NCAE CyberGames Website](https://www.ncaecybergames.org/)
+  - [NCAE 2025 Documentation](https://github.com/hope-tan/ncae-cybergames-2025)
 - <b>Captain - DoE CyberForce Competition (Upcoming)</b>
-  - [CyberForce Conquer the Hill Reign 2025](https://cyberforce.energy.gov/conquer-the-hill/reign-edition/)
-  - [DoE CyberForce Website](https://cyberforce.energy.gov/cyberforce-competition/)
  
 | Role             | Placement              | Competition                                                                                            | Date     | Link(s)              |
 |--------------------------------------------------------------------------------------------------------|----------|------------------|------------------------|-----------------------|
