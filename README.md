@@ -28,7 +28,14 @@
   - [NCAE CyberGames 2025 Documentation](https://github.com/hope-tan/ncae-cybergames-2025)
   - [NCAE CyberGames Website](https://www.ncaecybergames.org/)
 - <b>Captain - DoE CyberForce Competition (Upcoming)</b>
+  - [CyberForce Conquer the Hill Reign 2025](https://cyberforce.energy.gov/conquer-the-hill/reign-edition/)
   - [DoE CyberForce Website](https://cyberforce.energy.gov/cyberforce-competition/)
+ 
+| Role             | Placement              | Competition                                                                                            | Date     | Link(s)              |
+|--------------------------------------------------------------------------------------------------------|----------|------------------|------------------------|-----------------------|
+| Team Captain     | 2nd, Regional          | [NCAE CyberGames Competition](https://www.ncaecybergames.org/)                                         | Mar 2025 |[NCAE 2025 Documentation](https://github.com/hope-tan/ncae-cybergames-2025) |
+| Individual       | 28th/118, National     | [DoE CyberForce Conquer the Hill Reign](https://cyberforce.energy.gov/conquer-the-hill/reign-edition/) | Jul 2025 |                       |
+| Team Captain     | (Upcoming), National   | [DoE CyberForce Competition](https://cyberforce.energy.gov/cyberforce-competition/)                    | Nov 2025 |                       |
 
 <h2>📝Certifications</h2>
 
