@@ -19,7 +19,7 @@
   - [CTF Writeups](https://github.com/hope-tan/ctf-writeups) 
 - <b>Active Directory Lab (AD | Windows | Ubuntu Linux) </b>
   - [AD Lab Documentation](https://github.com/hope-tan/active-directory-lab)
-- <b>Secure Yourself App</b>
+- <b>OWASP Playground App</b>
   - Coming soon...
 
 <h2>🏆Cybersecurity Competitions</h2>
