@@ -36,7 +36,7 @@
 
 <h2>📝Certifications</h2>
 
-- <b>[Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/YJBG3S58LE7F)</b>
+- <b>[Google Cybersecurity Certificate](https://github.com/hope-tan/google-cybersecurity-certificate)</b>
 - <b>[Google Cloud Fundamentals](https://coursera.org/share/02135aed6aa6cee52b703201bdec2983)</b>
 - <b>CompTIA Security+ </b> (in progress)
 - <b>AWS Fundamentals</b> (in progress)
