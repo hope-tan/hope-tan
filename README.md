@@ -9,8 +9,6 @@
 
 <a> I've developed **strong leadership, communication, and technical skills** through **captaining cybersecurity competition teams**, **personal projects**, and completing a **Product Security Engineering internship** at Calix in Summer 2025. </a>
 
-<a>I'm especially interested in **cybersecurity engineering** and **product/app security roles** but open to all cybersecurity, IT, or DevOps/DevSecOps opportunities (based in US)!</a>
-
 <h2>👩🏻‍💻Personal Projects</h2>
 
 - <b>Portfolio Website (React.js | Vite | TailwindCSS | EmailJS) </b>
