@@ -22,7 +22,7 @@
 
 - <b>2nd Place and Captain - NCAE CyberGames Competition 2025</b>
   - [NCAE 2025 Documentation](https://github.com/hope-tan/ncae-cybergames-2025)
-- <b>Captain - DoE CyberForce Competition (Upcoming)</b>
+- <b>6th/93 Nationally and Captain - DoE CyberForce Competition 2025 </b>
  
 | Role             | Placement              | Competition                                                                                            | Date     | Link(s)              |
 |--------------------------------------------------------------------------------------------------------|----------|------------------|------------------------|-----------------------|
