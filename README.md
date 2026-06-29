@@ -11,7 +11,7 @@
 
 <h2>👩🏻‍💻Personal Projects</h2>
 
-- <b>Portfolio Website (React.js | Vite | TailwindCSS | EmailJS) </b>
+- <b>Portfolio Website (React.js | Vite | TailwindCSS) </b>
   - [hopetan.com](https://www.hopetan.com)
 
 <h2>🏆Cybersecurity Competitions</h2>
@@ -30,7 +30,7 @@
 
 - <b>[Google Cybersecurity Certificate](https://github.com/hope-tan/google-cybersecurity-certificate)</b>
 - <b>[Google Cloud Fundamentals](https://coursera.org/share/02135aed6aa6cee52b703201bdec2983)</b>
-- <b>CompTIA Security+ </b> (in progress)
+- <b>[CompTIA Security+](https://www.credly.com/badges/1758cf3d-e4fb-4bee-8983-c308a9d28fc5/public_url) </b>
 
 <!--
 **hope-tan/hope-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
