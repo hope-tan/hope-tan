@@ -13,10 +13,6 @@
 
 - <b>Portfolio Website (React.js | Vite | TailwindCSS | EmailJS) </b>
   - [hopetan.com](https://www.hopetan.com)
-- <b>Active Directory Lab (AD | Windows | Ubuntu Linux) </b>
-  - [AD Lab Documentation](https://github.com/hope-tan/active-directory-lab)
-- <b>OWASP Playground App</b>
-  - Coming soon...
 
 <h2>🏆Cybersecurity Competitions</h2>
 
