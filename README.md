@@ -7,7 +7,7 @@
 
 <a>I'm an energetic college junior studying **computer science and cybersecurity** looking for fast-paced technical roles near San Francisco, Seattle, NYC, and Washington DC. </a> 
 
-<a> I've developed **strong leadership, communication, and technical skills** through **captaining cybersecurity competition teams**, **personal projects**, and completing a **Product Security Engineering internship** at Calix in Summer 2025. </a>
+<a> I've developed **strong leadership, communication, and technical skills** through **captaining cybersecurity competition teams**, **personal projects**, and security engineering internships at Calix and Capital One. </a>
 
 <h2>👩🏻‍💻Personal Projects</h2>
 
