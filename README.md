@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/hope-tan)
 [![GitHub](https://img.shields.io/badge/Portfolio_Site-8A2BE2)](https://hopetan.com)
 
-<a>I'm an energetic and detail-oriented college junior studying **computer science and cybersecurity** who loves collaborating with others to build secure software and systems. </a> 
+<a>I'm an energetic college junior studying **computer science and cybersecurity** looking for fast-paced technical roles near San Francisco. </a> 
 
 <a> I've developed **strong leadership, communication, and technical skills** through **captaining cybersecurity competition teams**, **personal projects**, and completing a **Product Security Engineering internship** at Calix in Summer 2025. </a>
 
@@ -15,16 +15,16 @@
   - [hopetan.com](https://www.hopetan.com)
 
 <h2>🏆Cybersecurity Competitions</h2>
+<b>I've captained 4 highly successful cybersecurity competition teams:</b>
 
-- <b>2nd Place and Captain - NCAE CyberGames Competition 2025</b>
-  - [NCAE 2025 Documentation](https://github.com/hope-tan/ncae-cybergames-2025)
-- <b>6th/93 Nationally and Captain - DoE CyberForce Competition 2025 </b>
- 
-| Role             | Placement              | Competition                                                                                            | Date     | Link(s)              |
-|--------------------------------------------------------------------------------------------------------|----------|------------------|------------------------|-----------------------|
-| Team Captain     | 2nd, Regional          | [NCAE CyberGames Competition](https://www.ncaecybergames.org/)                                         | Mar 2025 |[NCAE 2025 Documentation](https://github.com/hope-tan/ncae-cybergames-2025) |
-| Individual       | 28th/118, National     | [DoE CyberForce Conquer the Hill Reign](https://cyberforce.energy.gov/conquer-the-hill/reign-edition/) | Jul 2025 |                       |
-| Team Captain     | 6th/93, National   | [DoE CyberForce Competition](https://cyberforce.energy.gov/cyberforce-competition/)                    | Nov 2025 |                       |
+
+| Competition                                                                      | Placement / Awards                                                        |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **Department of Energy CyberForce**                                              | 🏅 **6th/100** (National Finals 2025) • 🥇 **1st/100 Executive Briefing** |
+| **Collegiate Incident Response Competition for Undergraduate Students (CIRCUS)** | 🏅 **5th** (National Finals 2026)                                         |
+| **Information Security Talent Search (ISTS)**                                    | 🥈 **2nd/13** (Qualifiers 2026) • 🏅 **12th/16** (National Finals 2026)   |
+| **NSA NCAE CyberGames**                                                          | 🥈 **2nd/11** (Northeast Regional 2025) • 🏆 **Team MVP**                 |
+
 
 <h2>📝Certifications</h2>
 
