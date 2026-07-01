@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/hope-tan)
 [![GitHub](https://img.shields.io/badge/Portfolio_Site-8A2BE2)](https://hopetan.com)
 
-<a>I'm an energetic college junior studying **computer science and cybersecurity** looking for fast-paced technical roles near San Francisco. </a> 
+<a>I'm an energetic college junior studying **computer science and cybersecurity** looking for fast-paced technical roles near San Francisco, Seattle, NYC, and Washington DC. </a> 
 
 <a> I've developed **strong leadership, communication, and technical skills** through **captaining cybersecurity competition teams**, **personal projects**, and completing a **Product Security Engineering internship** at Calix in Summer 2025. </a>
 
